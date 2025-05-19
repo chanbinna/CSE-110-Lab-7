@@ -9,7 +9,8 @@
 
 Within a Github action that runs whenever code is pushed - In that way, only valid code could pushed to our repository.
 
-Check Your Understanding
+## Check Your Understanding
+
 2) Would you use an end to end test to check if a function is returning the correct output? (yes/no)
 No as multiple functions may be needed for the action to be finished so you wouldn't use an end to end test for only one function.
 
