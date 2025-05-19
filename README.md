@@ -16,5 +16,5 @@ No as multiple functions may be needed for the action to be finished so you woul
 3) What is the difference between navigation and snapshot mode?
   In navigation mode, we got performance metrics and diagnostics afte reloading the page. In snapshot mode there was more feedabck on accesability and it analysed the page as it was, without a reload. Because navigation mode required a reload, it took longer to give results. 
 
-5) Name three things we could do to improve the CSE 110 shop site based on the Lighthouse results.
+4) Name three things we could do to improve the CSE 110 shop site based on the Lighthouse results.
 Include a ``<meta name="viewport">`` tag. Include a lang attribute for the html element so that screen readers pronounce text properly. Appropriately size images.
